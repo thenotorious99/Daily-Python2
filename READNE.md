@@ -4,8 +4,8 @@
 3.Workout Routine Generator with Python
 4.Focus Timer with Break Reminders in Python
 5.Temperature Converter
-6.
-7.
+6.Movie Night Recommender
+7.Indian Festival Reminder
 8.
 9.
 10.
