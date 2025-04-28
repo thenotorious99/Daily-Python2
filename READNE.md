@@ -6,7 +6,11 @@
 5.Temperature Converter
 6.Movie Night Recommender
 7.Indian Festival Reminder
-8.
-9.
-10.
- 
+8.Shopping List Organizer
+9.Weather Temperature Converter
+10.Data Cleanup Assistant
+11.
+12.
+13.
+14.
+15.
